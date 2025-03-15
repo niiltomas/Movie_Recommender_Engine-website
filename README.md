@@ -6,7 +6,7 @@ Main objectives:
   - Learn the basics of HTML and coding structures.
 
 
-
+---
 Author: Nil Tomas Plans
 Period: November 2024 - February 2025
 
